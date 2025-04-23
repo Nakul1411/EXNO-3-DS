@@ -137,6 +137,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/58e9e14a-e412-4fd2-bbc5-eeb4ab403e9b)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-
-       
+       Hence the code was executed successfully .      
